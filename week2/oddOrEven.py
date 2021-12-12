@@ -6,7 +6,7 @@ if (num % 4) == 0:                                                          # If
 elif (num % 2) == 0:                                                        # If the number is even or odd
    print(num, "is an even number.")
 else:
-   print(num, "is an ODD number.")
+   print(num, "is an odd number.")
 
 
 num1 = int(input('Please enter your first number : '))                      # Ask the user for
